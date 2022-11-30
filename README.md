@@ -37,3 +37,6 @@ options:
 ## Examples
  - For Biocam: `python gen_pattern.py -o acircleboard.svg --rows 13 --columns 8 --type acircles --square_size 62.5 --radius_rate 2.5 -w 1200 -h 1000 --units mm`
  - For Smarty200: `python gen_pattern.py -o acircleboard.svg --rows 10 --columns 8 --type acircles --square_size 31.25 --radius_rate 2.5 -w 594 -h 420 --units mm`
+ 
+ 
+Source: https://github.com/opencv/opencv/blob/3.4/doc/pattern_tools/
